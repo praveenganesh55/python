@@ -4,4 +4,5 @@ num3 = 8
 num4 = 6
 
 diff = num1-num2-num3-num4
+
 print(diff)
