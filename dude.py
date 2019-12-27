@@ -1,4 +1,5 @@
 x = 10
 y = 13
-c = x*y
+z = 8
+c = x*y*z
 print(c)
